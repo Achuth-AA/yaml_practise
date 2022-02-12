@@ -1,0 +1,29 @@
+# yaml files extensions: '.yaml','.yml'
+# yaml paresers : "yaml.lint"
+# yaml case sesnsitve
+# yaml is strict on identation like in python
+
+#key value pair data type
+"apple" : "this is a red color fruit"
+---
+#list data type
+- andhra
+- telangana
+- tamil nadu
+---
+#block data type
+favouriteplaces:
+ - u.a.e 
+ - goa
+ - america
+cities : [delhi,mumbai,etc]
+---
+#representing them in dictionaries
+{red:"fruit apple",age:19}
+---
+#this is how we represent in dicts
+
+...
+
+# "---" ~ represesnts the different typres of document separation
+# "..." ~ represents the end of a document 
